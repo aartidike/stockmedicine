@@ -14,5 +14,5 @@ phases:
         - echo Build completed successfully
 artifacts:
    files:
-      - target/MedicineStock/target/MedicineStock-0.0.1-SNAPSHOT.jar
+      - target/MedicineStock-0.0.1-SNAPSHOT.jar
    discard-paths: yes
